@@ -1,0 +1,1283 @@
+[
+  {
+    "title": "Connection Locks – Meter Seal",
+    "slug": "connection-locks-meter-seal",
+    "moreLove": true,
+    "id": "1",
+    "price": 10.0,
+    "oldPrice": 12.0,
+    "desc": "Connection lock solution for securing utility meters and gas / water connections.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-1-1.jpg" },
+      { "img": "/assets/imgs/shop/product-1-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-1-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-1-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "meter-seals",
+    "featured": true,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["red", "yellow", "white"],
+    "weight": 50,
+    "tags": "security-seal,meter",
+    "sizes": "s",
+    "stock": 100,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP111 Twist Seal",
+    "slug": "gp111-twist-seal",
+    "moreLove": true,
+    "id": "2",
+    "price": 8.5,
+    "oldPrice": 9.5,
+    "desc": "Twist meter seal GP111 for textiles, customs administration and general security applications.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-2-1.jpg" },
+      { "img": "/assets/imgs/shop/product-2-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-2-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-2-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "meter-seals",
+    "featured": true,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["red", "yellow", "green"],
+    "weight": 40,
+    "tags": "security-seal,meter",
+    "sizes": "s",
+    "stock": 200,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP125 Anchor Seal",
+    "slug": "gp125-anchor-seal",
+    "moreLove": true,
+    "id": "3",
+    "price": 9.0,
+    "oldPrice": 10.0,
+    "desc": "Anchor style meter seal GP125 for gas and water meters.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-3-1.jpg" },
+      { "img": "/assets/imgs/shop/product-3-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-3-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-3-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "meter-seals",
+    "featured": false,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["yellow", "white"],
+    "weight": 45,
+    "tags": "security-seal,meter",
+    "sizes": "s",
+    "stock": 150,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP130 Twist Seal",
+    "slug": "gp130-twist-seal",
+    "moreLove": true,
+    "id": "4",
+    "price": 8.0,
+    "oldPrice": 9.0,
+    "desc": "Twist seal GP130 for utility meters, textile and customs applications.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-4-1.jpg" },
+      { "img": "/assets/imgs/shop/product-4-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-4-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-4-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "meter-seals",
+    "featured": false,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["red", "yellow", "white"],
+    "weight": 40,
+    "tags": "security-seal,meter",
+    "sizes": "s",
+    "stock": 180,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP140 Combi Seal",
+    "slug": "gp140-combi-seal",
+    "moreLove": true,
+    "id": "5",
+    "price": 9.5,
+    "oldPrice": 11.0,
+    "desc": "Combi meter seal GP140 for versatile meter and connection locking.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-5-1.jpg" },
+      { "img": "/assets/imgs/shop/product-5-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-5-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-5-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "meter-seals",
+    "featured": true,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["red", "green"],
+    "weight": 45,
+    "tags": "security-seal,meter",
+    "sizes": "s",
+    "stock": 160,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP150 Sealing Wires",
+    "slug": "gp150-sealing-wires",
+    "moreLove": true,
+    "id": "6",
+    "price": 5.0,
+    "oldPrice": 6.0,
+    "desc": "GP150 sealing wires for use with meter seals and other sealing devices.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-6-1.jpg" },
+      { "img": "/assets/imgs/shop/product-6-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-6-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-6-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "silver",
+    "brand": "ReelSeals",
+    "category": "other-seals-products",
+    "featured": false,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["steel"],
+    "weight": 30,
+    "tags": "security-seal,accessory",
+    "sizes": "s",
+    "stock": 300,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP570 Pull-Up Seal with Metal Insert",
+    "slug": "gp570-pull-up-seal-metal-insert",
+    "moreLove": true,
+    "id": "7",
+    "price": 12.0,
+    "oldPrice": 13.5,
+    "desc": "High performance pull-up seal GP570 with metal insert for meters, textile and hospital use.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-7-1.jpg" },
+      { "img": "/assets/imgs/shop/product-7-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-7-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-7-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "pull-up-seals",
+    "featured": true,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-6.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["red", "yellow", "white"],
+    "weight": 55,
+    "tags": "security-seal,pull-up",
+    "sizes": "s",
+    "stock": 220,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP410 Pull-Up Seal (Detectable, No Metal Insert)",
+    "slug": "gp410-pull-up-seal-detectable",
+    "moreLove": true,
+    "id": "8",
+    "price": 11.0,
+    "oldPrice": 12.0,
+    "desc": "GP410 pull-up seal without metal insert, detectable for food and hygiene critical industries.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-8-1.jpg" },
+      { "img": "/assets/imgs/shop/product-8-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-8-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-8-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "detectable-seals",
+    "featured": true,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-7.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["blue", "green"],
+    "weight": 50,
+    "tags": "security-seal,detectable",
+    "sizes": "s",
+    "stock": 190,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP411 Pull-Up Seal with Metal Insert (Detectable)",
+    "slug": "gp411-pull-up-seal-metal-insert",
+    "moreLove": true,
+    "id": "9",
+    "price": 11.5,
+    "oldPrice": 12.5,
+    "desc": "Detectable pull-up seal GP411 with metal insert for cargo, postal and healthcare use.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-9-1.jpg" },
+      { "img": "/assets/imgs/shop/product-9-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-9-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-9-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "detectable-seals",
+    "featured": true,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-7.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["red", "yellow"],
+    "weight": 52,
+    "tags": "security-seal,detectable,pull-up",
+    "sizes": "s",
+    "stock": 210,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP412 Pull-Up Seal with Metal Insert",
+    "slug": "gp412-pull-up-seal-metal-insert",
+    "moreLove": true,
+    "id": "10",
+    "price": 11.0,
+    "oldPrice": 12.0,
+    "desc": "Pull-up seal GP412 with metal insert for cargo, banks, supermarkets and transport.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-10-1.jpg" },
+      { "img": "/assets/imgs/shop/product-10-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-10-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-10-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "pull-up-seals",
+    "featured": true,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-6.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["red", "yellow", "white"],
+    "weight": 50,
+    "tags": "security-seal,pull-up",
+    "sizes": "s",
+    "stock": 230,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP413 Pull-Up Seal with Metal Insert",
+    "slug": "gp413-pull-up-seal-metal-insert",
+    "moreLove": true,
+    "id": "11",
+    "price": 11.0,
+    "oldPrice": 12.0,
+    "desc": "Pull-up seal GP413 with metal insert for cargo, road freight and bank applications.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-11-1.jpg" },
+      { "img": "/assets/imgs/shop/product-11-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-11-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-11-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "pull-up-seals",
+    "featured": false,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-6.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["red", "green"],
+    "weight": 50,
+    "tags": "security-seal,pull-up",
+    "sizes": "s",
+    "stock": 180,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP414 Pull-Up Seal with Metal Insert",
+    "slug": "gp414-pull-up-seal-metal-insert",
+    "moreLove": true,
+    "id": "12",
+    "price": 11.0,
+    "oldPrice": 12.0,
+    "desc": "Pull-up seal GP414 with metal insert for ATM, hospitals and freight.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-12-1.jpg" },
+      { "img": "/assets/imgs/shop/product-12-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-12-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-12-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "pull-up-seals",
+    "featured": false,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-6.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["yellow", "white"],
+    "weight": 50,
+    "tags": "security-seal,pull-up",
+    "sizes": "s",
+    "stock": 170,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP415 Pull-Up Seal with Metal Insert",
+    "slug": "gp415-pull-up-seal-metal-insert",
+    "moreLove": true,
+    "id": "13",
+    "price": 11.0,
+    "oldPrice": 12.0,
+    "desc": "Pull-up seal GP415 with metal insert for cargo, supermarkets and hospitals.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-13-1.jpg" },
+      { "img": "/assets/imgs/shop/product-13-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-13-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-13-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "pull-up-seals",
+    "featured": false,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-6.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["red", "yellow"],
+    "weight": 50,
+    "tags": "security-seal,pull-up",
+    "sizes": "s",
+    "stock": 220,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP416 Pull-Up Seal with Metal Insert",
+    "slug": "gp416-pull-up-seal-metal-insert",
+    "moreLove": true,
+    "id": "14",
+    "price": 11.0,
+    "oldPrice": 12.0,
+    "desc": "Pull-up seal GP416 with metal insert for banks, supermarkets, hotels and hospitals.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-14-1.jpg" },
+      { "img": "/assets/imgs/shop/product-14-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-14-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-14-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "pull-up-seals",
+    "featured": true,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-6.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["red", "green"],
+    "weight": 50,
+    "tags": "security-seal,pull-up",
+    "sizes": "s",
+    "stock": 210,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP540 Pull-Up Seal with Metal Insert",
+    "slug": "gp540-pull-up-seal-metal-insert",
+    "moreLove": true,
+    "id": "15",
+    "price": 12.5,
+    "oldPrice": 13.5,
+    "desc": "Pull-up seal GP540 with metal insert for airlines, hospitals and fire extinguishers.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-15-1.jpg" },
+      { "img": "/assets/imgs/shop/product-15-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-15-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-15-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "pull-up-seals",
+    "featured": true,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-6.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["red", "yellow"],
+    "weight": 55,
+    "tags": "security-seal,pull-up",
+    "sizes": "s",
+    "stock": 160,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP422 Container Bolt Seal (Metal Body)",
+    "slug": "gp422-container-bolt-seal-metal-body",
+    "moreLove": true,
+    "id": "16",
+    "price": 18.0,
+    "oldPrice": 20.0,
+    "desc": "High security container bolt seal GP422 with metal body for rail and maritime freight.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-16-1.jpg" },
+      { "img": "/assets/imgs/shop/product-16-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-16-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-16-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "yellow",
+    "brand": "ReelSeals",
+    "category": "high-security-seals",
+    "featured": true,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-8.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["yellow"],
+    "weight": 120,
+    "tags": "security-seal,high-security,container",
+    "sizes": "s",
+    "stock": 140,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP423 Container Bolt Seal (Plastic Body)",
+    "slug": "gp423-container-bolt-seal-plastic-body",
+    "moreLove": true,
+    "id": "17",
+    "price": 17.0,
+    "oldPrice": 19.0,
+    "desc": "High security container bolt seal GP423 with plastic body.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-1-1.jpg" },
+      { "img": "/assets/imgs/shop/product-1-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-1-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-1-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "yellow",
+    "brand": "ReelSeals",
+    "category": "high-security-seals",
+    "featured": false,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-8.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["yellow"],
+    "weight": 115,
+    "tags": "security-seal,high-security,container",
+    "sizes": "s",
+    "stock": 120,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP433 Container Cable Seal (Plastic Body)",
+    "slug": "gp433-container-cable-seal-plastic-body",
+    "moreLove": true,
+    "id": "18",
+    "price": 19.0,
+    "oldPrice": 21.0,
+    "desc": "High security cable seal GP433 with plastic body for containers and high value cargo.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-2-1.jpg" },
+      { "img": "/assets/imgs/shop/product-2-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-2-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-2-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "yellow",
+    "brand": "ReelSeals",
+    "category": "high-security-seals",
+    "featured": true,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-8.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["yellow"],
+    "weight": 130,
+    "tags": "security-seal,high-security,cable",
+    "sizes": "s",
+    "stock": 110,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP434 ISO Certified Container Cable Seal",
+    "slug": "gp434-iso-container-cable-seal",
+    "moreLove": true,
+    "id": "19",
+    "price": 20.0,
+    "oldPrice": 22.0,
+    "desc": "ISO certified high security cable seal GP434 for customs and international freight.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-3-1.jpg" },
+      { "img": "/assets/imgs/shop/product-3-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-3-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-3-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "yellow",
+    "brand": "ReelSeals",
+    "category": "high-security-seals",
+    "featured": true,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-8.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["yellow"],
+    "weight": 130,
+    "tags": "security-seal,high-security,cable,iso",
+    "sizes": "s",
+    "stock": 130,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP415-ST Fixed Length Seal with Metal Insert",
+    "slug": "gp415-st-fixed-length-seal-metal-insert",
+    "moreLove": true,
+    "id": "20",
+    "price": 10.5,
+    "oldPrice": 11.5,
+    "desc": "Fixed length seal GP415-ST with metal insert for rail and road freight.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-4-1.jpg" },
+      { "img": "/assets/imgs/shop/product-4-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-4-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-4-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "fixed-length-seals",
+    "featured": true,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["blue"],
+    "weight": 60,
+    "tags": "security-seal,fixed-length",
+    "sizes": "s",
+    "stock": 190,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP443 Fixed Length Seal",
+    "slug": "gp443-fixed-length-seal",
+    "moreLove": true,
+    "id": "21",
+    "price": 10.0,
+    "oldPrice": 11.0,
+    "desc": "Fixed length seal GP443 for cargo, rail freight and general applications.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-5-1.jpg" },
+      { "img": "/assets/imgs/shop/product-5-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-5-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-5-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "fixed-length-seals",
+    "featured": false,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["blue"],
+    "weight": 55,
+    "tags": "security-seal,fixed-length",
+    "sizes": "s",
+    "stock": 170,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP560 Fixed Length Seal",
+    "slug": "gp560-fixed-length-seal",
+    "moreLove": true,
+    "id": "22",
+    "price": 10.5,
+    "oldPrice": 11.5,
+    "desc": "Fixed length seal GP560 for cargo, road, rail and maritime containers.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-6-1.jpg" },
+      { "img": "/assets/imgs/shop/product-6-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-6-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-6-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "fixed-length-seals",
+    "featured": true,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["blue"],
+    "weight": 60,
+    "tags": "security-seal,fixed-length",
+    "sizes": "s",
+    "stock": 200,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP565 Fixed Length Seal with Plastic Insert",
+    "slug": "gp565-fixed-length-seal-plastic-insert",
+    "moreLove": true,
+    "id": "23",
+    "price": 10.0,
+    "oldPrice": 11.0,
+    "desc": "Fixed length seal GP565 with plastic insert for supermarkets and freight.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-7-1.jpg" },
+      { "img": "/assets/imgs/shop/product-7-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-7-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-7-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "fixed-length-seals",
+    "featured": false,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["blue"],
+    "weight": 55,
+    "tags": "security-seal,fixed-length",
+    "sizes": "s",
+    "stock": 180,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP510 Drum Seal",
+    "slug": "gp510-drum-seal",
+    "moreLove": true,
+    "id": "24",
+    "price": 9.0,
+    "oldPrice": 10.0,
+    "desc": "Drum seal GP510 for securing drums and industrial containers.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-8-1.jpg" },
+      { "img": "/assets/imgs/shop/product-8-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-8-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-8-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "other-seals-products",
+    "featured": false,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["blue"],
+    "weight": 70,
+    "tags": "security-seal,drum",
+    "sizes": "s",
+    "stock": 120,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP520 Padlock Seal",
+    "slug": "gp520-padlock-seal",
+    "moreLove": true,
+    "id": "25",
+    "price": 9.5,
+    "oldPrice": 10.5,
+    "desc": "Padlock seal GP520 for ATMs, airlines, hotels and hospitals.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-9-1.jpg" },
+      { "img": "/assets/imgs/shop/product-9-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-9-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-9-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "other-seals-products",
+    "featured": true,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-6.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["blue"],
+    "weight": 60,
+    "tags": "security-seal,padlock",
+    "sizes": "s",
+    "stock": 200,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP530 Padlock Seal with Metal Hook",
+    "slug": "gp530-padlock-seal-metal-hook",
+    "moreLove": true,
+    "id": "26",
+    "price": 10.0,
+    "oldPrice": 11.0,
+    "desc": "Padlock seal GP530 with metal hook for cargo, supermarkets and drums.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-10-1.jpg" },
+      { "img": "/assets/imgs/shop/product-10-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-10-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-10-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "other-seals-products",
+    "featured": false,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-6.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["blue"],
+    "weight": 60,
+    "tags": "security-seal,padlock",
+    "sizes": "s",
+    "stock": 180,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP586 Big Flag Plastic Label Seal",
+    "slug": "gp586-big-flag-plastic-label-seal",
+    "moreLove": true,
+    "id": "27",
+    "price": 9.0,
+    "oldPrice": 10.0,
+    "desc": "Big flag plastic label seal GP586 for containers, supermarkets, hospitals and fire extinguishers.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-11-1.jpg" },
+      { "img": "/assets/imgs/shop/product-11-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-11-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-11-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "other-seals-products",
+    "featured": true,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["blue"],
+    "weight": 45,
+    "tags": "security-seal,label",
+    "sizes": "s",
+    "stock": 210,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP587 Big Flag Seal for Label Applications",
+    "slug": "gp587-big-flag-label-seal",
+    "moreLove": true,
+    "id": "28",
+    "price": 9.0,
+    "oldPrice": 10.0,
+    "desc": "Big flag seal GP587 designed for label applications in banks and supermarkets.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-12-1.jpg" },
+      { "img": "/assets/imgs/shop/product-12-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-12-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-12-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "other-seals-products",
+    "featured": false,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["blue"],
+    "weight": 45,
+    "tags": "security-seal,label",
+    "sizes": "s",
+    "stock": 180,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP625 Sample Bottle",
+    "slug": "gp625-sample-bottle",
+    "moreLove": true,
+    "id": "29",
+    "price": 7.5,
+    "oldPrice": 8.5,
+    "desc": "Sample bottle GP625 for secure collection and transport of specimens.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-13-1.jpg" },
+      { "img": "/assets/imgs/shop/product-13-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-13-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-13-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "clear",
+    "brand": "ReelSeals",
+    "category": "other-seals-products",
+    "featured": false,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["clear"],
+    "weight": 80,
+    "tags": "security-seal,sample",
+    "sizes": "s",
+    "stock": 130,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP640 Security Label",
+    "slug": "gp640-security-label",
+    "moreLove": true,
+    "id": "30",
+    "price": 4.5,
+    "oldPrice": 5.0,
+    "desc": "Tamper-evident security label GP640 for packaging, logistics and auditing.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-14-1.jpg" },
+      { "img": "/assets/imgs/shop/product-14-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-14-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-14-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "red",
+    "brand": "ReelSeals",
+    "category": "other-seals-products",
+    "featured": true,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["red"],
+    "weight": 10,
+    "tags": "security-seal,label",
+    "sizes": "s",
+    "stock": 400,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP731 Ziplock Seal",
+    "slug": "gp731-ziplock-seal",
+    "moreLove": true,
+    "id": "31",
+    "price": 6.5,
+    "oldPrice": 7.5,
+    "desc": "Ziplock seal GP731 for cash bags, documents and retail applications.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-15-1.jpg" },
+      { "img": "/assets/imgs/shop/product-15-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-15-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-15-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "other-seals-products",
+    "featured": true,
+    "trending": false,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["blue"],
+    "weight": 30,
+    "tags": "security-seal,ziplock",
+    "sizes": "s",
+    "stock": 220,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  },
+  {
+    "title": "GP732 Ziplock Seal – Extended",
+    "slug": "gp732-ziplock-seal-extended",
+    "moreLove": true,
+    "id": "32",
+    "price": 7.0,
+    "oldPrice": 8.0,
+    "desc": "Ziplock seal GP732 with extended options for cargo, airlines and supermarkets.",
+    "images": [
+      { "img": "/assets/imgs/shop/product-16-1.jpg" },
+      { "img": "/assets/imgs/shop/product-16-2.jpg" }
+    ],
+    "totalSell": 0,
+    "gallery": [
+      { "thumb": "/assets/imgs/shop/product-16-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-16-2.jpg" }
+    ],
+    "condition": "new",
+    "vendor": "ReelSeals",
+    "color": "blue",
+    "brand": "ReelSeals",
+    "category": "other-seals-products",
+    "featured": false,
+    "trending": true,
+    "discount": {
+      "banner": "/assets/imgs/banner/banner-5.png",
+      "percentage": 0,
+      "expireDate": null,
+      "isActive": false
+    },
+    "variations": ["blue"],
+    "weight": 35,
+    "tags": "security-seal,ziplock",
+    "sizes": "s",
+    "stock": 200,
+    "review": 0,
+    "rating": 0,
+    "ratingScore": 0,
+    "created": ""
+  }
+]
+

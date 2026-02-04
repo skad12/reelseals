@@ -1,0 +1,84 @@
+import { useRouter } from "next/router";
+import { connect } from "react-redux";
+import { updateProductCategory } from "../../../redux/action/productFiltersAction";
+
+const CategoryProduct = ({ updateProductCategory }) => {
+    const router = useRouter();
+
+    const selectCategory = (e, category) => {
+        e.preventDefault();
+        // removeSearchTerm();
+        updateProductCategory(category);
+        router.push({
+            pathname: "/products",
+            query: {
+                cat: category, //
+            },
+        });
+    };
+    return (
+        <>
+            <ul>
+                <li onClick={(e) => selectCategory(e, "")}>
+                    <a>All</a>
+                </li>
+                <li onClick={(e) => selectCategory(e, "meter-seals")}>
+                    <a>
+                        <img
+                            src="/assets/imgs/theme/icons/category-1.svg"
+                            alt=""
+                        />
+                        Meter Seals
+                    </a>
+                </li>
+                <li onClick={(e) => selectCategory(e, "pull-up-seals")}>
+                    <a>
+                        <img
+                            src="/assets/imgs/theme/icons/category-2.svg"
+                            alt=""
+                        />
+                        Pull-Up Seals
+                    </a>
+                </li>
+                <li onClick={(e) => selectCategory(e, "high-security-seals")}>
+                    <a>
+                        <img
+                            src="/assets/imgs/theme/icons/category-3.svg"
+                            alt=""
+                        />
+                        High Security Seals
+                    </a>
+                </li>
+                <li onClick={(e) => selectCategory(e, "fixed-length-seals")}>
+                    <a>
+                        <img
+                            src="/assets/imgs/theme/icons/category-4.svg"
+                            alt=""
+                        />
+                        Fixed Length Seals
+                    </a>
+                </li>
+                <li onClick={(e) => selectCategory(e, "other-seals-products")}>
+                    <a>
+                        <img
+                            src="/assets/imgs/theme/icons/category-5.svg"
+                            alt=""
+                        />
+                        Other Seals &amp; Products
+                    </a>
+                </li>
+                <li onClick={(e) => selectCategory(e, "detectable-seals")}>
+                    <a>
+                        <img
+                            src="/assets/imgs/theme/icons/category-6.svg"
+                            alt=""
+                        />
+                        Detectable Seals
+                    </a>
+                </li>
+            </ul>
+        </>
+    );
+};
+
+export default connect(null, { updateProductCategory })(CategoryProduct);
