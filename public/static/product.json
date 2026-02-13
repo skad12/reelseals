@@ -1,44 +1,5 @@
 [
-  {
-    "title": "Connection Locks – Meter Seal",
-    "slug": "connection-locks-meter-seal",
-    "moreLove": true,
-    "id": "1",
-    "price": 10.0,
-    "oldPrice": 12.0,
-    "desc": "Connection lock solution for securing utility meters and gas / water connections.",
-    "images": [
-      { "img": "/assets/imgs/shop/product-1-1.jpg" },
-      { "img": "/assets/imgs/shop/product-1-2.jpg" }
-    ],
-    "totalSell": 0,
-    "gallery": [
-      { "thumb": "/assets/imgs/shop/product-1-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-1-2.jpg" }
-    ],
-    "condition": "new",
-    "vendor": "ReelSeals",
-    "color": "blue",
-    "brand": "ReelSeals",
-    "category": "meter-seals",
-    "featured": true,
-    "trending": true,
-    "discount": {
-      "banner": "/assets/imgs/banner/banner-5.png",
-      "percentage": 0,
-      "expireDate": null,
-      "isActive": false
-    },
-    "variations": ["red", "yellow", "white"],
-    "weight": 50,
-    "tags": "security-seal,meter",
-    "sizes": "s",
-    "stock": 100,
-    "review": 0,
-    "rating": 0,
-    "ratingScore": 0,
-    "created": ""
-  },
+  
   {
     "title": "GP111 Twist Seal",
     "slug": "gp111-twist-seal",
@@ -220,7 +181,7 @@
     "vendor": "ReelSeals",
     "color": "silver",
     "brand": "ReelSeals",
-    "category": "other-seals-products",
+    "category": "meter-seals",
     "featured": false,
     "trending": false,
     "discount": {
@@ -260,7 +221,7 @@
     "vendor": "ReelSeals",
     "color": "blue",
     "brand": "ReelSeals",
-    "category": "pull-up-seals",
+    "category": "meter-seals", 
     "featured": true,
     "trending": true,
     "discount": {
@@ -300,7 +261,7 @@
     "vendor": "ReelSeals",
     "color": "blue",
     "brand": "ReelSeals",
-    "category": "detectable-seals",
+    "category": "pull-up-seals",
     "featured": true,
     "trending": true,
     "discount": {
@@ -340,7 +301,7 @@
     "vendor": "ReelSeals",
     "color": "blue",
     "brand": "ReelSeals",
-    "category": "detectable-seals",
+    "category": "pull-up-seals",
     "featured": true,
     "trending": true,
     "discount": {
@@ -648,13 +609,13 @@
     "oldPrice": 19.0,
     "desc": "High security container bolt seal GP423 with plastic body.",
     "images": [
-      { "img": "/assets/imgs/shop/product-1-1.jpg" },
-      { "img": "/assets/imgs/shop/product-1-2.jpg" }
+      { "img": "/assets/imgs/shop/product-17-1.jpg" },
+      { "img": "/assets/imgs/shop/product-17-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-1-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-1-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-17-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-17-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -688,13 +649,13 @@
     "oldPrice": 21.0,
     "desc": "High security cable seal GP433 with plastic body for containers and high value cargo.",
     "images": [
-      { "img": "/assets/imgs/shop/product-2-1.jpg" },
-      { "img": "/assets/imgs/shop/product-2-2.jpg" }
+      { "img": "/assets/imgs/shop/product-18-1.jpg" },
+      { "img": "/assets/imgs/shop/product-18-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-2-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-2-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-18-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-18-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -728,13 +689,13 @@
     "oldPrice": 22.0,
     "desc": "ISO certified high security cable seal GP434 for customs and international freight.",
     "images": [
-      { "img": "/assets/imgs/shop/product-3-1.jpg" },
-      { "img": "/assets/imgs/shop/product-3-2.jpg" }
+      { "img": "/assets/imgs/shop/product-19-1.jpg" },
+      { "img": "/assets/imgs/shop/product-19-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-3-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-3-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-19-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-19-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -768,13 +729,13 @@
     "oldPrice": 11.5,
     "desc": "Fixed length seal GP415-ST with metal insert for rail and road freight.",
     "images": [
-      { "img": "/assets/imgs/shop/product-4-1.jpg" },
-      { "img": "/assets/imgs/shop/product-4-2.jpg" }
+      { "img": "/assets/imgs/shop/product-20-1.jpg" },
+      { "img": "/assets/imgs/shop/product-20-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-4-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-4-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-20-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-20-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -808,13 +769,13 @@
     "oldPrice": 11.0,
     "desc": "Fixed length seal GP443 for cargo, rail freight and general applications.",
     "images": [
-      { "img": "/assets/imgs/shop/product-5-1.jpg" },
-      { "img": "/assets/imgs/shop/product-5-2.jpg" }
+      { "img": "/assets/imgs/shop/product-21-1.jpg" },
+      { "img": "/assets/imgs/shop/product-21-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-5-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-5-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-21-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-21-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -848,13 +809,13 @@
     "oldPrice": 11.5,
     "desc": "Fixed length seal GP560 for cargo, road, rail and maritime containers.",
     "images": [
-      { "img": "/assets/imgs/shop/product-6-1.jpg" },
-      { "img": "/assets/imgs/shop/product-6-2.jpg" }
+      { "img": "/assets/imgs/shop/product-22-1.jpg" },
+      { "img": "/assets/imgs/shop/product-22-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-6-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-6-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-22-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-22-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -888,13 +849,13 @@
     "oldPrice": 11.0,
     "desc": "Fixed length seal GP565 with plastic insert for supermarkets and freight.",
     "images": [
-      { "img": "/assets/imgs/shop/product-7-1.jpg" },
-      { "img": "/assets/imgs/shop/product-7-2.jpg" }
+      { "img": "/assets/imgs/shop/product-23-1.jpg" },
+      { "img": "/assets/imgs/shop/product-23-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-7-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-7-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-23-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-23-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -928,13 +889,13 @@
     "oldPrice": 10.0,
     "desc": "Drum seal GP510 for securing drums and industrial containers.",
     "images": [
-      { "img": "/assets/imgs/shop/product-8-1.jpg" },
-      { "img": "/assets/imgs/shop/product-8-2.jpg" }
+      { "img": "/assets/imgs/shop/product-24-1.jpg" },
+      { "img": "/assets/imgs/shop/product-24-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-8-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-8-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-24-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-24-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -968,13 +929,13 @@
     "oldPrice": 10.5,
     "desc": "Padlock seal GP520 for ATMs, airlines, hotels and hospitals.",
     "images": [
-      { "img": "/assets/imgs/shop/product-9-1.jpg" },
-      { "img": "/assets/imgs/shop/product-9-2.jpg" }
+      { "img": "/assets/imgs/shop/product-25-1.jpg" },
+      { "img": "/assets/imgs/shop/product-25-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-9-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-9-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-25-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-25-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -1008,13 +969,13 @@
     "oldPrice": 11.0,
     "desc": "Padlock seal GP530 with metal hook for cargo, supermarkets and drums.",
     "images": [
-      { "img": "/assets/imgs/shop/product-10-1.jpg" },
-      { "img": "/assets/imgs/shop/product-10-2.jpg" }
+      { "img": "/assets/imgs/shop/product-26-1.jpg" },
+      { "img": "/assets/imgs/shop/product-26-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-10-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-10-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-26-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-26-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -1048,13 +1009,13 @@
     "oldPrice": 10.0,
     "desc": "Big flag plastic label seal GP586 for containers, supermarkets, hospitals and fire extinguishers.",
     "images": [
-      { "img": "/assets/imgs/shop/product-11-1.jpg" },
-      { "img": "/assets/imgs/shop/product-11-2.jpg" }
+      { "img": "/assets/imgs/shop/product-27-1.jpg" },
+      { "img": "/assets/imgs/shop/product-27-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-11-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-11-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-27-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-27-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -1088,13 +1049,13 @@
     "oldPrice": 10.0,
     "desc": "Big flag seal GP587 designed for label applications in banks and supermarkets.",
     "images": [
-      { "img": "/assets/imgs/shop/product-12-1.jpg" },
-      { "img": "/assets/imgs/shop/product-12-2.jpg" }
+      { "img": "/assets/imgs/shop/product-28-1.jpg" },
+      { "img": "/assets/imgs/shop/product-28-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-12-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-12-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-28-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-28-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -1128,13 +1089,13 @@
     "oldPrice": 8.5,
     "desc": "Sample bottle GP625 for secure collection and transport of specimens.",
     "images": [
-      { "img": "/assets/imgs/shop/product-13-1.jpg" },
-      { "img": "/assets/imgs/shop/product-13-2.jpg" }
+      { "img": "/assets/imgs/shop/product-29-1.jpg" },
+      { "img": "/assets/imgs/shop/product-29-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-13-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-13-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-29-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-29-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -1168,13 +1129,13 @@
     "oldPrice": 5.0,
     "desc": "Tamper-evident security label GP640 for packaging, logistics and auditing.",
     "images": [
-      { "img": "/assets/imgs/shop/product-14-1.jpg" },
-      { "img": "/assets/imgs/shop/product-14-2.jpg" }
+      { "img": "/assets/imgs/shop/product-30-1.jpg" },
+      { "img": "/assets/imgs/shop/product-30-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-14-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-14-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-30-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-30-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -1208,13 +1169,13 @@
     "oldPrice": 7.5,
     "desc": "Ziplock seal GP731 for cash bags, documents and retail applications.",
     "images": [
-      { "img": "/assets/imgs/shop/product-15-1.jpg" },
-      { "img": "/assets/imgs/shop/product-15-2.jpg" }
+      { "img": "/assets/imgs/shop/product-31-1.jpg" },
+      { "img": "/assets/imgs/shop/product-31-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-15-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-15-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-31-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-31-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",
@@ -1248,13 +1209,13 @@
     "oldPrice": 8.0,
     "desc": "Ziplock seal GP732 with extended options for cargo, airlines and supermarkets.",
     "images": [
-      { "img": "/assets/imgs/shop/product-16-1.jpg" },
-      { "img": "/assets/imgs/shop/product-16-2.jpg" }
+      { "img": "/assets/imgs/shop/product-32-1.jpg" },
+      { "img": "/assets/imgs/shop/product-32-2.jpg" }
     ],
     "totalSell": 0,
     "gallery": [
-      { "thumb": "/assets/imgs/shop/product-16-1.jpg" },
-      { "thumb": "/assets/imgs/shop/product-16-2.jpg" }
+      { "thumb": "/assets/imgs/shop/product-32-1.jpg" },
+      { "thumb": "/assets/imgs/shop/product-32-2.jpg" }
     ],
     "condition": "new",
     "vendor": "ReelSeals",

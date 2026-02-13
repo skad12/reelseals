@@ -16,53 +16,69 @@ function Contact() {
               <div className="col-xl-10 col-lg-12 m-auto">
                 <section className="row align-items-end mb-50">
                   <div className="col-lg-4 mb-lg-0 mb-md-5 mb-sm-5">
-                    <h4 className="mb-20 text-brand">How can help you ?</h4>
-                    <h1 className="mb-30">Let us know how we can help you</h1>
+                    <h4 className="mb-20 text-brand">How can we help?</h4>
+                    <h1 className="mb-30">
+                      Security & Industrial Seals <br />
+                    </h1>
                     <p className="mb-20">
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Ut elit tellus, luctus nec ullamcorper mattis, pulvinar
-                      dapibus leo.
+                      We provide tamper-evident and industrial sealing solutions
+                      for logistics, utilities, manufacturing and heavy
+                      equipment. From supply and installation to testing and
+                      certification, our team helps you protect assets and
+                      maintain chain-of-custody.
                     </p>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Ut elit tellus, luctus nec ullamcorper mattis, pulvinar
-                      dapibus leo.
+                      Our services are designed around industry best practices
+                      and standards, with options for custom-molded seals,
+                      serialized tracking, and on-site inspections. Contact our
+                      team for a quote or site assessment.
                     </p>
                   </div>
+
                   <div className="col-lg-8">
                     <div className="row">
                       <div className="col-lg-6 mb-4">
-                        <h5 className="mb-20">01. Visit Feedback</h5>
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit. Ut elit tellus, luctus nec ullamcorper mattis,
-                          pulvinar dapibus leo.
-                        </p>
-                      </div>
-                      <div className="col-lg-6 mb-4">
-                        <h5 className="mb-20">02. Employer Services</h5>
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit. Ut elit tellus, luctus nec ullamcorper mattis,
-                          pulvinar dapibus leo.
-                        </p>
-                      </div>
-                      <div className="col-lg-6 mb-lg-0 mb-4">
-                        <h5 className="mb-20 text-brand">
-                          03. Billing Inquiries
+                        <h5 className="mb-20">
+                          01. On-Site Inspection & Audits
                         </h5>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit. Ut elit tellus, luctus nec ullamcorper mattis,
-                          pulvinar dapibus leo.
+                          Comprehensive inspections and audit reports for sealed
+                          assets — container checks, record verification, tamper
+                          evidence review and corrective recommendations to keep
+                          your operations compliant.
                         </p>
                       </div>
-                      <div className="col-lg-6">
-                        <h5 className="mb-20">04.General Inquiries</h5>
+
+                      <div className="col-lg-6 mb-4">
+                        <h5 className="mb-20">02. Supply & Installation</h5>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit. Ut elit tellus, luctus nec ullamcorper mattis,
-                          pulvinar dapibus leo.
+                          Secure supply of bolt seals, cable seals, padlocks,
+                          and high-security tags plus professional installation
+                          services to ensure correct fit and tamper resistance.
+                        </p>
+                      </div>
+
+                      <div className="col-lg-6 mb-lg-0 mb-4">
+                        <h5 className="mb-20 text-brand">
+                          03. Testing, Certification & Traceability
+                        </h5>
+                        <p>
+                          Laboratory testing, compliance verification and
+                          serialized tracking for chain-of-custody. We provide
+                          documentation and test certificates to meet your
+                          regulatory or internal audit requirements.
+                        </p>
+                      </div>
+
+                      <div className="col-lg-6">
+                        <h5 className="mb-20">
+                          04. Custom Solutions & Support
+                        </h5>
+                        <p>
+                          Custom-engineered seals (material, temperature and
+                          chemical resistance), rapid replacement, and 24/7
+                          technical support for emergency reseals and field
+                          troubleshooting.
                         </p>
                       </div>
                     </div>
@@ -90,10 +106,6 @@ function Contact() {
                       <abbr title="Phone">Phone:</abbr> +234 703-622-3891
                       <br />
                       <abbr title="Email">Email: </abbr>info@reelseals.com
-                      <br />
-                      <a className="btn btn-sm font-weight-bold text-white mt-20 border-radius-5 btn-shadow-brand hover-up">
-                        <i className="fi-rs-marker mr-5"></i>View map
-                      </a>
                     </div>
                   </div>
                   <div className="row">
